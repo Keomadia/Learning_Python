@@ -1,5 +1,5 @@
 import random
-
+# This was a project I did following @techwithtim on youtube
 
 MIN_BET = 1
 MAX_BET = 200
