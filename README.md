@@ -6,6 +6,14 @@ This repository contains a structured collection of Python scripts developed whi
 
 ---
 
+#### 🎬 Demo — Digital Clock
+
+![Digital Clock Demo](assets/digital_clock_demo.gif)
+
+#### 🎬 Demo — Bet
+
+![Bet Demo](assets/bet_demo.gif)
+
 #### Objectives
 
 * Strengthen understanding of Python syntax and structure
@@ -52,14 +60,23 @@ python mini_projects/digital_clock.py
 
 ---
 
-#### Key Learning Areas
+
+#### Challenges & Growth
+
+* While building these exercises, I encountered several challenges:
+* Understanding nested list traversal and indexing
+* Structuring small scripts into reusable functions
+* Managing input validation in console applications
+* Transitioning from writing scripts to writing structured programs
+* Each script represents an improvement in clarity, structure, and modular thinking.
+
+#### Key Learnings
 
 * Data structures (lists, nested lists)
 * Control flow and logical checks
 * Functions and modular design
 * Object-oriented programming basics
 * Writing clean, readable Python code
-
 ---
 
 ##### Anyankah Keomadi
